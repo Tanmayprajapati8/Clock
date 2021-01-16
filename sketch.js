@@ -55,7 +55,7 @@ function Time() {
     textSize(100);
     stroke("red");
     strokeWeight(10);
-    text(h + "   :   " + t + "   :   " + s, 660, 540);
+    text(h + "   :   " + t + "   :   " + s, 600, 540);
     push();
     fill("red");
     textSize(100);
